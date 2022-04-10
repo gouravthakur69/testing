@@ -1,2 +1,3 @@
-# testing git repo for commands demostration
-ang for fun 
+# testing 
+git repo for commands demostration
+and for fun 
